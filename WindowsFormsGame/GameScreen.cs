@@ -124,7 +124,6 @@ namespace ColorJump
                     _wellRect.Top + (_wellRect.Height - textSize.Height) / 2
                 );
                 pe.Graphics.DrawString(pauseText, pauseFont, Brushes.White, textPos);
-
                 _mainMenuButton.Draw(pe.Graphics);
             }
 
