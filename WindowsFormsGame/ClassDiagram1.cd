@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorJump.AudioManager">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAAAAAAAAAAAUAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.Ball">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAgAAggAAAAEAEAICAAAAAAAoACBgAAgYAA=</HashCode>
+      <FileName>Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.BallState">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAABAAAAAAI=</HashCode>
+      <FileName>BallState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.BaseButton">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABQAAAgAAAAAAAEAAEAAIAAAACAAAAAAEAAA=</HashCode>
+      <FileName>BaseButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ObstacleBase">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAgCAAAAAAAgAAAAAAACAAEAAAABAYAA=</HashCode>
+      <FileName>BaseObstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.BaseScreen">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAAAAAAAAAAACAAAAAAAIAAAAAAAAAI=</HashCode>
+      <FileName>BaseScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.Diamond">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Diamond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.GameScreen">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASABBIAAAAIwgBAIAAIAAQACAAAAAAAIABAIgICAAI=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.GraphicsExtensions">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgA=</HashCode>
+      <FileName>GraphicsExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ImageManager">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAQAAAAAAAAAAAAAAAAAAAACAAgAApQAAAAAAAAA=</HashCode>
+      <FileName>ImageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.MainMenuScreen">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAACAAiAgA=</HashCode>
+      <FileName>MainMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ObstacleCross">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAgAAACAAQBQAASAAAAAAAAAgAA=</HashCode>
+      <FileName>ObstacleCross.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ObstacleRing">
+    <Position X="3.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAQAA=</HashCode>
+      <FileName>ObstacleRing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ObstacleSquare">
+    <Position X="3.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAQAA=</HashCode>
+      <FileName>ObstacleSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.Program">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.RecordManager">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>RecordManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorJump.ShopScreen">
+    <Position X="10.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKADABAAAAAAAAAAAAAAEBAAACAAAAAIAAAAAAiAAg=</HashCode>
+      <FileName>ShopScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ColorJump.TrailPoint">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAYAA=</HashCode>
+      <FileName>TrailPoint.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ColorJump.BallShape">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAAgAAAAAAAAAA=</HashCode>
+      <FileName>BallState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
