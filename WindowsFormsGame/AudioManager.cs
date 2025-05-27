@@ -17,7 +17,7 @@ namespace ColorJump
             if (wmp == null)
             {
                 wmp = new WindowsMediaPlayer();
-                wmp.URL = "actiontheme-v3.mp3";
+                wmp.URL = @"C:\Users\marym\OneDrive\Робочий стіл\Університет\Курсова\ColorJump-master\WindowsFormsGame\Resourses\actiontheme-v3.mp3";
                 wmp.settings.setMode("loop", true);
             }
             if (!isPlaying)

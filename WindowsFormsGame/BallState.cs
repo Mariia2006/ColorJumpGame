@@ -12,7 +12,7 @@ namespace ColorJump
 
     public static class BallState
     {
-        private static readonly string shapeFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "selected_shape.dat");
+        private static readonly string shapeFilePath = @"C:\Users\marym\OneDrive\Робочий стіл\Університет\Курсова\ColorJump-master\WindowsFormsGame\Resourses\selected_shape.dat";
 
         public static BallShape SelectedShape { get; private set; } = LoadShape();
 

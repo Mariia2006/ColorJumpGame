@@ -8,7 +8,7 @@ namespace ColorJump
 {
     public static class RecordManager
     {
-        private static readonly string recordFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "record.dat");
+        private static readonly string recordFilePath = @"C:\Users\marym\OneDrive\Робочий стіл\Університет\Курсова\ColorJump-master\WindowsFormsGame\Resourses\record.dat";
 
         public static void AddToRecord(int score)
         {

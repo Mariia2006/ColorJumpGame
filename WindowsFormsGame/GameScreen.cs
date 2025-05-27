@@ -210,7 +210,7 @@ namespace ColorJump
         private void GenerateStars()
         {
             int starX = _wellRect.Left + (_wellRect.Width - 30) / 2;
-            Image starImage = Image.FromFile("DIAMOND.png");
+            Image starImage = ImageManager.Diamond;
 
             foreach (var obstacle in _obstacles)
             {

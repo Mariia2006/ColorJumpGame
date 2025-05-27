@@ -21,7 +21,7 @@ namespace ColorJump
 
         static ImageManager()
         {
-            string basePath = AppDomain.CurrentDomain.BaseDirectory;
+            string basePath = @"C:\Users\marym\OneDrive\Робочий стіл\Університет\Курсова\ColorJump-master\WindowsFormsGame\Resourses\";
 
             Logo = LoadImage(basePath, "COLOR JUMP.png");
             Sound = LoadImage(basePath, "SOUND.png");
